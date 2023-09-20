@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T04:13:15.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="dDqygsC1k5smCL6qyPUk" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T04:14:49.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="-O49ODDvZx5BJ10fAbf_" version="21.7.5" type="github">
   <diagram name="Page-1" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
     <mxGraphModel dx="1518" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
@@ -97,17 +97,29 @@
         <mxCell id="MFAVZBfr_c1cwXmYvkoI-100" value="Article 1" style="text;spacingTop=-5;" vertex="1" parent="1">
           <mxGeometry x="129" y="1410" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MFAVZBfr_c1cwXmYvkoI-101" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" vertex="1" parent="1">
-          <mxGeometry x="236.5" y="1481.25" width="355" height="198.75" as="geometry" />
-        </mxCell>
-        <mxCell id="MFAVZBfr_c1cwXmYvkoI-102" value="Article&#xa;Picture" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontSize=36;fontColor=#CCCCCC" vertex="1" parent="1">
-          <mxGeometry x="234" y="1493.13" width="360" height="175" as="geometry" />
-        </mxCell>
         <mxCell id="MFAVZBfr_c1cwXmYvkoI-107" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" vertex="1" parent="1">
           <mxGeometry x="129" y="1860" width="570" height="220" as="geometry" />
         </mxCell>
         <mxCell id="MFAVZBfr_c1cwXmYvkoI-108" value="footer&#xa;" style="text;spacingTop=-5;" vertex="1" parent="1">
           <mxGeometry x="129" y="1860" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MFAVZBfr_c1cwXmYvkoI-111" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="234" y="1481.25" width="360" height="198.75" as="geometry" />
+        </mxCell>
+        <mxCell id="MFAVZBfr_c1cwXmYvkoI-101" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" vertex="1" parent="MFAVZBfr_c1cwXmYvkoI-111">
+          <mxGeometry x="2.5" width="355" height="198.75" as="geometry" />
+        </mxCell>
+        <mxCell id="MFAVZBfr_c1cwXmYvkoI-102" value="Article&#xa;Picture" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontSize=36;fontColor=#CCCCCC" vertex="1" parent="MFAVZBfr_c1cwXmYvkoI-111">
+          <mxGeometry y="11.870000000000118" width="360" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="MFAVZBfr_c1cwXmYvkoI-112" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="220" y="1900" width="380" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MFAVZBfr_c1cwXmYvkoI-113" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" vertex="1" parent="MFAVZBfr_c1cwXmYvkoI-112">
+          <mxGeometry x="2.6388888888888884" width="374.7222222222222" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MFAVZBfr_c1cwXmYvkoI-114" value="Contact" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontSize=36;fontColor=#CCCCCC" vertex="1" parent="MFAVZBfr_c1cwXmYvkoI-112">
+          <mxGeometry y="8.361257861635304" width="379.9999999999999" height="123.27044025157232" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
