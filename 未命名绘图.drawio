@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T04:14:49.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="-O49ODDvZx5BJ10fAbf_" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T04:17:41.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="_XmtyqSmLKMzrHYX2q2x" version="21.7.5" type="github">
   <diagram name="Page-1" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
     <mxGraphModel dx="1518" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
@@ -17,10 +17,10 @@
           <mxGeometry x="20" y="90" width="780" height="10" as="geometry" />
         </mxCell>
         <mxCell id="5" value="Home" style="text;spacingTop=-5;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="663.75" y="40" width="36.25" height="20" as="geometry" />
+          <mxGeometry x="594" y="40" width="36.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6" value="About" style="text;spacingTop=-5;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="739.9999999999999" y="40.000000000000156" width="30" height="20" as="geometry" />
+          <mxGeometry x="668.9999999999999" y="40.000000000000156" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8" value="Article 1" style="text;spacingTop=-5;" parent="1" vertex="1">
           <mxGeometry x="134.5" y="120" width="30" height="20" as="geometry" />
@@ -120,6 +120,9 @@
         </mxCell>
         <mxCell id="MFAVZBfr_c1cwXmYvkoI-114" value="Contact" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontSize=36;fontColor=#CCCCCC" vertex="1" parent="MFAVZBfr_c1cwXmYvkoI-112">
           <mxGeometry y="8.361257861635304" width="379.9999999999999" height="123.27044025157232" as="geometry" />
+        </mxCell>
+        <mxCell id="MFAVZBfr_c1cwXmYvkoI-116" value="Main" style="text;spacingTop=-5;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="740" y="40" width="36.25" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
